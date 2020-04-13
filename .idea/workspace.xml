@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guestinggame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interpolation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block.py" beforeDir="false" afterPath="$PROJECT_DIR$/block.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +33,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.block">
+  <component name="RunManager" selected="Python.guestinggame">
     <configuration name="Interpolation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +100,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="guestinggame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guestinggame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rep fields" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,34 +142,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequence op" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sequence op.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guestinggame" />
         <item itemvalue="Python.block" />
         <item itemvalue="Python.Interpolation" />
         <item itemvalue="Python.formatting" />
         <item itemvalue="Python.rep fields" />
-        <item itemvalue="Python.sequence op" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586536824478</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Interpolation finished">
+      <created>1586550660889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586550660889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,53 +214,62 @@
     <MESSAGE value="Operators slice +" />
     <MESSAGE value="Formatting" />
     <MESSAGE value="Interpolation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interpolation" />
+    <MESSAGE value="Interpolation finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interpolation finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586034866399" />
-    <state x="1095" y="110" key="CommitChangelistDialog2" timestamp="1586536822719">
+    <state x="1266" y="213" key="#xdebugger.XInspectDialog" timestamp="1586721342672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1095" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586536822719" />
+    <state x="1266" y="213" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586721342672" />
+    <state x="645" y="121" key="#xdebugger.evaluate" timestamp="1586590669886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1586550660127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586550660127" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1586425965955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586425965955" />
-    <state width="931" height="269" key="GridCell.Tab.0.bottom" timestamp="1586543326718">
+    <state width="1067" height="326" key="GridCell.Tab.0.bottom" timestamp="1586721438533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="931" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586543326718" />
-    <state width="931" height="269" key="GridCell.Tab.0.center" timestamp="1586543326717">
+    <state width="1067" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438533" />
+    <state width="1067" height="326" key="GridCell.Tab.0.center" timestamp="1586721438533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="931" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586543326717" />
-    <state width="931" height="269" key="GridCell.Tab.0.left" timestamp="1586543326717">
+    <state width="1067" height="326" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438533" />
+    <state width="1067" height="326" key="GridCell.Tab.0.left" timestamp="1586721438533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="931" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586543326717" />
-    <state width="931" height="269" key="GridCell.Tab.0.right" timestamp="1586543326717">
+    <state width="1067" height="326" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438533" />
+    <state width="1067" height="326" key="GridCell.Tab.0.right" timestamp="1586721438533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="931" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586543326717" />
-    <state width="935" height="344" key="GridCell.Tab.1.bottom" timestamp="1586469619056">
+    <state width="1067" height="326" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438533" />
+    <state width="1067" height="326" key="GridCell.Tab.1.bottom" timestamp="1586721438534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586469619056" />
-    <state width="935" height="344" key="GridCell.Tab.1.center" timestamp="1586469619056">
+    <state width="1067" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438534" />
+    <state width="1067" height="326" key="GridCell.Tab.1.center" timestamp="1586721438534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586469619056" />
-    <state width="935" height="344" key="GridCell.Tab.1.left" timestamp="1586469619056">
+    <state width="1067" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438534" />
+    <state width="1067" height="326" key="GridCell.Tab.1.left" timestamp="1586721438534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586469619056" />
-    <state width="935" height="344" key="GridCell.Tab.1.right" timestamp="1586469619056">
+    <state width="1067" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438534" />
+    <state width="1067" height="326" key="GridCell.Tab.1.right" timestamp="1586721438534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586469619056" />
+    <state width="1067" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586721438534" />
     <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -273,5 +290,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586006045632" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/block.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/guestinggame.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
