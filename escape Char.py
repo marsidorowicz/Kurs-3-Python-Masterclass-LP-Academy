@@ -1,8 +1,8 @@
-splitString = "This string has been\nsplit over\nseveral lines"
-print(splitString)
+split_string = "This string has been\nsplit over\nseveral lines"
+print(split_string)
 
-tabbedString = "1\t2\t3\t4\t5"
-print(tabbedString)
+tabbed_string = "1\t2\t3\t4\t5"
+print(tabbed_string)
 print('The same "bla" \'dziecko\'')
 
 print("C:\\Users\Mario\notes.txt")

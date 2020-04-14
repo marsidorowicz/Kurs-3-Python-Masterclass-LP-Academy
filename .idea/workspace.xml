@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LAB 58 Extracting capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adventure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/searching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timestables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contrived.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hilo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestinggame.py" beforeDir="false" afterPath="$PROJECT_DIR$/guestinggame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/adventure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/escape Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/escape Char.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +44,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.guestinggame">
+  <component name="RunManager" selected="Python.contrived">
     <configuration name="adventure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,6 +58,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adventure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contrived" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contrived.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="searching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hilo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,28 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hilo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contrived" />
+        <item itemvalue="Python.hilo" />
         <item itemvalue="Python.guestinggame" />
         <item itemvalue="Python.adventure" />
         <item itemvalue="Python.whileloop" />
-        <item itemvalue="Python.searching" />
-        <item itemvalue="Python.shopping" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586779370538</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 69 finished">
+      <created>1586802887396</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586802887396</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,7 +246,8 @@
     <MESSAGE value="Interpolation finished" />
     <MESSAGE value="Question game" />
     <MESSAGE value="Lesson 58 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 58 finished" />
+    <MESSAGE value="Lesson 69 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 69 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
@@ -258,54 +262,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1586779369249">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1586802886137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586779369249" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586802886137" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1586779165416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586779165416" />
-    <state width="1893" height="265" key="GridCell.Tab.0.bottom" timestamp="1586799840661">
+    <state width="930" height="262" key="GridCell.Tab.0.bottom" timestamp="1586870353576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586799840661" />
-    <state width="1893" height="265" key="GridCell.Tab.0.center" timestamp="1586799840661">
+    <state width="930" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586870353576" />
+    <state width="930" height="262" key="GridCell.Tab.0.center" timestamp="1586870353576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586799840661" />
-    <state width="1893" height="265" key="GridCell.Tab.0.left" timestamp="1586799840661">
+    <state width="930" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586870353576" />
+    <state width="930" height="262" key="GridCell.Tab.0.left" timestamp="1586870353575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586799840661" />
-    <state width="1893" height="265" key="GridCell.Tab.0.right" timestamp="1586799840661">
+    <state width="930" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586870353575" />
+    <state width="930" height="262" key="GridCell.Tab.0.right" timestamp="1586870353576">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586799840661" />
-    <state width="906" height="326" key="GridCell.Tab.1.bottom" timestamp="1586797858051">
+    <state width="930" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586870353576" />
+    <state width="906" height="326" key="GridCell.Tab.1.bottom" timestamp="1586802901137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="906" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586797858051" />
-    <state width="906" height="326" key="GridCell.Tab.1.center" timestamp="1586797858050">
+    <state width="906" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586802901137" />
+    <state width="906" height="326" key="GridCell.Tab.1.center" timestamp="1586802901137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="906" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586797858050" />
-    <state width="906" height="326" key="GridCell.Tab.1.left" timestamp="1586797858050">
+    <state width="906" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586802901137" />
+    <state width="906" height="326" key="GridCell.Tab.1.left" timestamp="1586802901137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="906" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586797858050" />
-    <state width="906" height="326" key="GridCell.Tab.1.right" timestamp="1586797858051">
+    <state width="906" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586802901137" />
+    <state width="906" height="326" key="GridCell.Tab.1.right" timestamp="1586802901137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="906" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586797858051" />
+    <state width="906" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586802901137" />
     <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1070" y="373" key="Performance.Activity.Monitor/0.0.1920.1040@0.0.1920.1040" timestamp="1586441114333" />
-    <state x="673" y="155" key="SettingsEditor" timestamp="1586802865071">
+    <state x="673" y="155" key="SettingsEditor" timestamp="1586869593262">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="673" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586802865071" />
+    <state x="673" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586869593262" />
     <state x="1137" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586355373961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
