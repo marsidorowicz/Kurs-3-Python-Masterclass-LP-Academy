@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/100 ordering in dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/93 demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/97 binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98 hex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/101 dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/103 join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104 Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105 fruits dict copy and add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105 game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.100 ordering in dict">
-    <configuration name="100 ordering in dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.105 game">
+    <configuration name="101 dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100 ordering in dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/101 dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="93 demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="103 join" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/93 demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/103 join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="97 binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="104 Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/97 binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/104 Challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="98 hex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="105 fruits dict copy and add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/98 hex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105 fruits dict copy and add.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="105 game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/105 game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.100 ordering in dict" />
-        <item itemvalue="Python.98 hex" />
-        <item itemvalue="Python.97 binary" />
-        <item itemvalue="Python.tuples" />
-        <item itemvalue="Python.93 demo" />
+        <item itemvalue="Python.105 game" />
+        <item itemvalue="Python.105 fruits dict copy and add" />
+        <item itemvalue="Python.104 Challenge" />
+        <item itemvalue="Python.103 join" />
+        <item itemvalue="Python.101 dictionaries" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587049419008</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="100 dict">
+      <created>1587112782352</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587112782353</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,7 +271,8 @@
     <MESSAGE value="Lesson 69 finished" />
     <MESSAGE value="Lesson 76 finished" />
     <MESSAGE value="92" />
-    <option name="LAST_COMMIT_MESSAGE" value="92" />
+    <MESSAGE value="100 dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="100 dict" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
@@ -279,30 +287,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1587049417424">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1587112780936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587049417424" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587112780936" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1586779165416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586779165416" />
-    <state width="930" height="262" key="GridCell.Tab.0.bottom" timestamp="1587112680351">
+    <state width="699" height="258" key="GridCell.Tab.0.bottom" timestamp="1587404309916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587112680351" />
-    <state width="930" height="262" key="GridCell.Tab.0.center" timestamp="1587112680351">
+    <state width="699" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587404309916" />
+    <state width="699" height="258" key="GridCell.Tab.0.center" timestamp="1587404309916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="262" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587112680351" />
-    <state width="930" height="262" key="GridCell.Tab.0.left" timestamp="1587112680351">
+    <state width="699" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587404309916" />
+    <state width="699" height="258" key="GridCell.Tab.0.left" timestamp="1587404309916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="262" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587112680351" />
-    <state width="930" height="262" key="GridCell.Tab.0.right" timestamp="1587112680351">
+    <state width="699" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587404309916" />
+    <state width="699" height="258" key="GridCell.Tab.0.right" timestamp="1587404309916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="262" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587112680351" />
+    <state width="699" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587404309916" />
     <state width="930" height="326" key="GridCell.Tab.1.bottom" timestamp="1586872040056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -335,10 +343,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586035480998" />
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup" timestamp="1586775533710">
+    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup" timestamp="1587403737883">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586775533710" />
+    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587403737883" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
