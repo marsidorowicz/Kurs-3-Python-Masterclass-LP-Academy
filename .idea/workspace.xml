@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/122 Standard Python Library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/123 Webbrowser module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/124 Date and Time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/125 Challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/126 daytime module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/131 tztest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtledemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/132 awaretime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/133 time Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/134 tkinter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/131 tztest.py" beforeDir="false" afterPath="$PROJECT_DIR$/131 tztest.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,70 +44,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.131 tztest">
-    <configuration name="123 Webbrowser module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/123 Webbrowser module.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="124 Date and Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/124 Date and Time.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="125 Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/125 Challenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.134 tkinter">
     <configuration name="126 daytime module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +87,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="132 awaretime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/132 awaretime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="133 time Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/133 time Challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="134 tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/134 tkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.134 tkinter" />
+        <item itemvalue="Python.133 time Challenge" />
         <item itemvalue="Python.131 tztest" />
+        <item itemvalue="Python.132 awaretime" />
         <item itemvalue="Python.126 daytime module" />
-        <item itemvalue="Python.125 Challenge" />
-        <item itemvalue="Python.124 Date and Time" />
-        <item itemvalue="Python.123 Webbrowser module" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587816600311</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="131 finished">
+      <created>1587980831351</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587980831352</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,7 +310,8 @@
     <MESSAGE value="108 finished" />
     <MESSAGE value="113 finished" />
     <MESSAGE value="120 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="120 finished" />
+    <MESSAGE value="131 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="131 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
@@ -321,46 +326,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1587816598820">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1587980829681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587816598820" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587980829681" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1586779165416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586779165416" />
-    <state width="1884" height="155" key="GridCell.Tab.0.bottom" timestamp="1587911878092">
+    <state width="1896" height="116" key="GridCell.Tab.0.bottom" timestamp="1588008784483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1884" height="155" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587911878092" />
-    <state width="1884" height="155" key="GridCell.Tab.0.center" timestamp="1587911878092">
+    <state width="1896" height="116" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588008784483" />
+    <state width="1896" height="116" key="GridCell.Tab.0.center" timestamp="1588008784483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1884" height="155" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587911878092" />
-    <state width="1884" height="155" key="GridCell.Tab.0.left" timestamp="1587911878092">
+    <state width="1896" height="116" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588008784483" />
+    <state width="1896" height="116" key="GridCell.Tab.0.left" timestamp="1588008784483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1884" height="155" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587911878092" />
-    <state width="1884" height="155" key="GridCell.Tab.0.right" timestamp="1587911878092">
+    <state width="1896" height="116" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588008784483" />
+    <state width="1896" height="116" key="GridCell.Tab.0.right" timestamp="1588008784483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1884" height="155" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587911878092" />
-    <state width="930" height="326" key="GridCell.Tab.1.bottom" timestamp="1586872040056">
+    <state width="1896" height="116" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588008784483" />
+    <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1587983566905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586872040056" />
-    <state width="930" height="326" key="GridCell.Tab.1.center" timestamp="1586872040056">
+    <state width="1893" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587983566905" />
+    <state width="1893" height="326" key="GridCell.Tab.1.center" timestamp="1587983566903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586872040056" />
-    <state width="930" height="326" key="GridCell.Tab.1.left" timestamp="1586872040056">
+    <state width="1893" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587983566903" />
+    <state width="1893" height="326" key="GridCell.Tab.1.left" timestamp="1587983566902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586872040056" />
-    <state width="930" height="326" key="GridCell.Tab.1.right" timestamp="1586872040056">
+    <state width="1893" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587983566902" />
+    <state width="1893" height="326" key="GridCell.Tab.1.right" timestamp="1587983566903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586872040056" />
+    <state width="1893" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587983566903" />
     <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -410,6 +415,11 @@
           <url>file://$PROJECT_DIR$/Challenge 81.py</url>
           <line>4</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/133 time Challenge.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
