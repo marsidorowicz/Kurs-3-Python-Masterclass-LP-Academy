@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/155 Importing Techniques.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/157 scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/158 files in directories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/159 spam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/160 Object Oriented Programming.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +41,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.159 spam">
+  <component name="RunManager" selected="Python.160 Object Oriented Programming">
     <configuration name="155 Importing Techniques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="160 Object Oriented Programming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/160 Object Oriented Programming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.160 Object Oriented Programming" />
         <item itemvalue="Python.159 spam" />
         <item itemvalue="Python.158 files in directories" />
         <item itemvalue="Python.157 scope" />
         <item itemvalue="Python.155 Importing Techniques" />
-        <item itemvalue="Python.blackjack" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588678878697</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="159 finished">
+      <created>1588699313916</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1588699313916</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -352,7 +355,8 @@
     <MESSAGE value="145 finished" />
     <MESSAGE value="150 finished" />
     <MESSAGE value="154 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="154 finished" />
+    <MESSAGE value="159 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="159 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
@@ -367,30 +371,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1588678878037">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1588699312790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588678878037" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588699312790" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1586779165416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586779165416" />
-    <state width="1893" height="257" key="GridCell.Tab.0.bottom" timestamp="1588689426192">
+    <state width="1893" height="257" key="GridCell.Tab.0.bottom" timestamp="1588860881748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588689426192" />
-    <state width="1893" height="257" key="GridCell.Tab.0.center" timestamp="1588689426191">
+    <state width="1893" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588860881748" />
+    <state width="1893" height="257" key="GridCell.Tab.0.center" timestamp="1588860881748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588689426191" />
-    <state width="1893" height="257" key="GridCell.Tab.0.left" timestamp="1588689426191">
+    <state width="1893" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588860881748" />
+    <state width="1893" height="257" key="GridCell.Tab.0.left" timestamp="1588860881748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588689426191" />
-    <state width="1893" height="257" key="GridCell.Tab.0.right" timestamp="1588689426191">
+    <state width="1893" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588860881748" />
+    <state width="1893" height="257" key="GridCell.Tab.0.right" timestamp="1588860881748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588689426191" />
+    <state width="1893" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588860881748" />
     <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1588240065468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
