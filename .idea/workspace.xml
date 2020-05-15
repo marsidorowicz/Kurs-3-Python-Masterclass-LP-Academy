@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ShelfTest.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShelfTest.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShelfTest.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bike.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bike.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bike.dir" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cetered" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mario.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/przepisy.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/przepisy.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/przepisy.dir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/185 Ducks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,28 +45,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="163 accounts OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/163 accounts OOP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.185 Ducks">
     <configuration name="166 docs string songs read from file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="166 docs string songs read from file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="185 Ducks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +79,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Programowanie\Tim Buchalka\Kurs 3\166 docs string songs read from file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/185 Ducks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enemy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enemy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.185 Ducks" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.enemy" />
         <item itemvalue="Python.player" />
         <item itemvalue="Python.166 docs string songs read from file (1)" />
-        <item itemvalue="Python.166 docs string songs read from file" />
-        <item itemvalue="Python.163 accounts OOP" />
       </list>
     </recent_temporary>
   </component>
@@ -378,12 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1589455205908</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="177 finished + FILES">
+      <created>1589488334857</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589488334857</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Formatting" />
     <MESSAGE value="Interpolation" />
     <MESSAGE value="Interpolation finished" />
     <MESSAGE value="Question game" />
@@ -408,7 +404,8 @@
     <MESSAGE value="166 finished" />
     <MESSAGE value="173 finished" />
     <MESSAGE value="177 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="177 finished" />
+    <MESSAGE value="177 finished + FILES" />
+    <option name="LAST_COMMIT_MESSAGE" value="177 finished + FILES" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586034866399">
@@ -427,10 +424,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1589455203233">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1589488333949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589455203233" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589488333949" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589287931278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -439,38 +436,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589280182232" />
-    <state width="1893" height="234" key="GridCell.Tab.0.bottom" timestamp="1589455203861">
+    <state width="1893" height="234" key="GridCell.Tab.0.bottom" timestamp="1589571906612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589455203861" />
-    <state width="1893" height="234" key="GridCell.Tab.0.center" timestamp="1589455203859">
+    <state width="1893" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589571906612" />
+    <state width="1893" height="234" key="GridCell.Tab.0.center" timestamp="1589571906612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589455203859" />
-    <state width="1893" height="234" key="GridCell.Tab.0.left" timestamp="1589455203858">
+    <state width="1893" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589571906612" />
+    <state width="1893" height="234" key="GridCell.Tab.0.left" timestamp="1589571906612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589455203858" />
-    <state width="1893" height="234" key="GridCell.Tab.0.right" timestamp="1589455203860">
+    <state width="1893" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589571906612" />
+    <state width="1893" height="234" key="GridCell.Tab.0.right" timestamp="1589571906612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589455203860" />
-    <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1588240065468">
+    <state width="1893" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589571906612" />
+    <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588240065468" />
-    <state width="1893" height="326" key="GridCell.Tab.1.center" timestamp="1588240065467">
+    <state width="1893" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
+    <state width="1893" height="326" key="GridCell.Tab.1.center" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588240065467" />
-    <state width="1893" height="326" key="GridCell.Tab.1.left" timestamp="1588240065467">
+    <state width="1893" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
+    <state width="1893" height="326" key="GridCell.Tab.1.left" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588240065467" />
-    <state width="1893" height="326" key="GridCell.Tab.1.right" timestamp="1588240065468">
+    <state width="1893" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
+    <state width="1893" height="326" key="GridCell.Tab.1.right" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588240065468" />
+    <state width="1893" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
     <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
