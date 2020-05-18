@@ -48,10 +48,10 @@ class Body(Tag):
 
 class HtmlDoc(object):
 
-    def __init__(self, title=None):
-        self._doc_type = DocType()
-        self._head = Head(title)
-        self._body = Body()
+    def __init__(self, doc_type, head, body):
+        self._doc_type = doc_type
+        self._head = head
+        self._body = body
 
     def add_tag(self, name, contents):
         self._body.add_tag(name, contents)
@@ -59,18 +59,30 @@ class HtmlDoc(object):
     def display(self, file=None):
         self._doc_type.display(file=file)
         print("<html>", file=file)
-        print("<html>", file=file)
         self._head.display(file=file)
         self._body.display(file=file)
-        print("</html>", file=file)
         print("</html>", file=file)
 
 
 if __name__ == "__main__":
 
-    my_page = HtmlDoc("Strona domowa")
-    my_page.add_tag("H1", "Main heading")
-    my_page.add_tag("H2", "Subheading")
-    my_page.add_tag("p", "Paragraph")
-    with open("e:\\index.html", "w") as index:
-        my_page.display(index)
+    # my_page = HtmlDoc("Strona domowa")
+    # my_page.add_tag("H1", "Main heading")
+    # my_page.add_tag("H2", "Subheading")
+    # my_page.add_tag("p", "Paragraph")
+    # with open("e:\\index.html", "w") as index:
+    #     my_page.display(index)
+
+    new_body = Body()
+
+    new_body.add_tag("H1", "agregation")
+    new_body.add_tag("p", "W przeciwieństwie do <strong>compozycji </strong>"
+                          "agregacja używa istniejących funkcji")
+    new_body.add_tag("p", "Objekt compozycji nie przejmuje praw nad objektem"
+                          "z którego powstał, usuwając go nie niszczymy obiektów")
+    new_docType = DocType()
+    new_header = Head("Agregation document")
+    my_page = HtmlDoc(new_docType, new_header, new_body)
+
+    with open("index3.html", "w") as index:
+        my_page.display(file=index)
