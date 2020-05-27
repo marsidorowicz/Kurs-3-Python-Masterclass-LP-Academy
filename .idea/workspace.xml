@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="203 finished">
+    <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/206 Exception handling examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/207 exception challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/209 Migration Duck ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ducks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/203 challenge contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/203 challenge contacts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/203 contacts sqlite3.py" beforeDir="false" afterPath="$PROJECT_DIR$/203 contacts sqlite3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185 Ducks.py" beforeDir="false" afterPath="$PROJECT_DIR$/185 Ducks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/checkfile.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/checkfile.txt" />
@@ -45,49 +47,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.203 challenge contacts">
-    <configuration name="186 html doc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/186 html doc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="202 SQL in python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202 SQL in python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.209 Migration Duck ext">
     <configuration name="203 challenge contacts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="203 contacts sqlite3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="206 Exception handling examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/203 contacts sqlite3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/206 Exception handling examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="97 binary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="207 exception challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +102,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/97 binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/207 exception challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="209 Migration Duck ext" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/209 Migration Duck ext.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ducks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ducks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.209 Migration Duck ext" />
+        <item itemvalue="Python.ducks" />
+        <item itemvalue="Python.207 exception challenge" />
+        <item itemvalue="Python.206 Exception handling examples" />
         <item itemvalue="Python.203 challenge contacts" />
-        <item itemvalue="Python.203 contacts sqlite3" />
-        <item itemvalue="Python.202 SQL in python" />
-        <item itemvalue="Python.97 binary" />
-        <item itemvalue="Python.186 html doc" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +419,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590072093333</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="205 finished">
+      <created>1590166766689</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1590166766689</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="92" />
     <MESSAGE value="100 dict" />
     <MESSAGE value="105 dict" />
     <MESSAGE value="108 finished" />
@@ -447,7 +455,8 @@
     <MESSAGE value="190 finished" />
     <MESSAGE value="195 finished" />
     <MESSAGE value="203 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="203 finished" />
+    <MESSAGE value="205 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="205 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
@@ -466,10 +475,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1590132998975">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1590166764009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590132998975" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590166764009" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589287931278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -478,22 +487,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589280182232" />
-    <state width="1893" height="159" key="GridCell.Tab.0.bottom" timestamp="1590166555586">
+    <state width="1893" height="270" key="GridCell.Tab.0.bottom" timestamp="1590578806326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590166555586" />
-    <state width="1893" height="159" key="GridCell.Tab.0.center" timestamp="1590166555585">
+    <state width="1893" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590578806326" />
+    <state width="1893" height="270" key="GridCell.Tab.0.center" timestamp="1590578806326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="159" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590166555585" />
-    <state width="1893" height="159" key="GridCell.Tab.0.left" timestamp="1590166555585">
+    <state width="1893" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590578806326" />
+    <state width="1893" height="270" key="GridCell.Tab.0.left" timestamp="1590578806326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="159" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590166555585" />
-    <state width="1893" height="159" key="GridCell.Tab.0.right" timestamp="1590166555585">
+    <state width="1893" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590578806326" />
+    <state width="1893" height="270" key="GridCell.Tab.0.right" timestamp="1590578806326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="159" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590166555585" />
+    <state width="1893" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590578806326" />
     <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -526,10 +535,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586035480998" />
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup" timestamp="1589452411423">
+    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup" timestamp="1590515607905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589452411423" />
+    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590515607905" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

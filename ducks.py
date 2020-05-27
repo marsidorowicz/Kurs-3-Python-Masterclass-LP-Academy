@@ -32,6 +32,9 @@ class Duck(object):
 
 class Penguin(object):
 
+    def __init__(self):
+        self.fly = self.aviate
+
     def walk(self):
         print("Klap, klap, klap, też człapię")
 
@@ -41,6 +44,12 @@ class Penguin(object):
     def quack(self):
         print("Jestem pingwin i nie kwaczę")
 
+    def aviate(self):
+        print("Wygrałem na loterii i mam szybowca")
+
+
+class Mallard(Duck):
+    pass
 
 # def test_duck(duck):
 #     duck.walk()
@@ -53,12 +62,22 @@ class Flock(object):
     def __init__(self):
         self.flock = []
 
-    def add_duck(self, duck):
-        self.flock.append(duck)
+    def add_duck(self, duck: Duck) -> None:  # to allow only Duck type, otherwise give none
+        # if isinstance(duck, Duck):  #checkk if its Duck class type
+        #     self.flock.append(duck)
+        fly_method = getattr(duck, 'fly', None)
+        if callable(fly_method):
+            self.flock.append(duck)
+        else:
+            raise TypeError('Cannot add duck, are you sure it is not a ' + str(type(duck).__name__))
 
     def migrate(self):
-        for duck in self.flock:
-            duck.fly()
+        try:
+            for duck in self.flock:
+                duck.fly()
+                raise AttributeError("Test działania wyjątków")  # TODO remove before releasing
+        except AttributeError:
+            print("This one cannot be migrated")
 
 
 if __name__ == "__main__":
