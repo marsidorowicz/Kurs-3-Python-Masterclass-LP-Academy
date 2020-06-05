@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/212 rollback.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/212 rollback2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/218 checkdb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/212 rollback.py" beforeDir="false" afterPath="$PROJECT_DIR$/212 rollback.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/checkfile.txt" />
   </component>
   <component name="RecentsManager">
@@ -44,28 +45,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.212 rollback">
-    <configuration name="207 exception challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/207 exception challenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.218 checkdb">
     <configuration name="209 Migration Duck ext" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +109,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="218 checkdb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/218 checkdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ducks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.218 checkdb" />
         <item itemvalue="Python.212 rollback" />
         <item itemvalue="Python.212 rollback2" />
         <item itemvalue="Python.209 Migration Duck ext" />
         <item itemvalue="Python.ducks" />
-        <item itemvalue="Python.207 exception challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -430,12 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590578950416</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="214 finished">
+      <created>1590860796423</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1590860796423</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="105 dict" />
     <MESSAGE value="108 finished" />
     <MESSAGE value="113 finished" />
     <MESSAGE value="120 finished" />
@@ -460,7 +467,8 @@
     <MESSAGE value="203 finished" />
     <MESSAGE value="205 finished" />
     <MESSAGE value="212 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="212 finished" />
+    <MESSAGE value="214 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="214 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
@@ -479,34 +487,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1590578949297">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1590860795280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590578949297" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590860795280" />
+    <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1590940390606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590940390606" />
+    <state x="727" y="225" key="DBNavigator.DatasetColumnSetupDialog" timestamp="1590942087739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="225" key="DBNavigator.DatasetColumnSetupDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942087739" />
+    <state x="697" y="345" key="DBNavigator.DatasetEditorSortingDialog" timestamp="1590942065833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="345" key="DBNavigator.DatasetEditorSortingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942065833" />
+    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog" timestamp="1590940788136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590940788136" />
+    <state x="656" y="183" key="DBNavigator.ExportDataDialog" timestamp="1590941119111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="183" key="DBNavigator.ExportDataDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590941119111" />
+    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog" timestamp="1590942456747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942456747" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589287931278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589287931278" />
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1589280182232">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1590940695773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589280182232" />
-    <state width="1893" height="270" key="GridCell.Tab.0.bottom" timestamp="1590860715381">
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590940695773" />
+    <state width="1865" height="270" key="GridCell.Tab.0.bottom" timestamp="1591353470737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590860715381" />
-    <state width="1893" height="270" key="GridCell.Tab.0.center" timestamp="1590860715381">
+    <state width="1865" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
+    <state width="1865" height="270" key="GridCell.Tab.0.center" timestamp="1591353470737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590860715381" />
-    <state width="1893" height="270" key="GridCell.Tab.0.left" timestamp="1590860715381">
+    <state width="1865" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
+    <state width="1865" height="270" key="GridCell.Tab.0.left" timestamp="1591353470737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590860715381" />
-    <state width="1893" height="270" key="GridCell.Tab.0.right" timestamp="1590860715381">
+    <state width="1865" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
+    <state width="1865" height="270" key="GridCell.Tab.0.right" timestamp="1591353470737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590860715381" />
+    <state width="1865" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
     <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1589544655575">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -523,14 +555,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1893" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
+    <state x="437" y="189" width="1046" height="654" key="IDE.errors.dialog" timestamp="1591353525897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="189" width="1046" height="654" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591353525897" />
     <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1070" y="373" key="Performance.Activity.Monitor/0.0.1920.1040@0.0.1920.1040" timestamp="1586441114333" />
-    <state x="305" y="155" key="SettingsEditor" timestamp="1588240319407">
+    <state x="305" y="155" key="SettingsEditor" timestamp="1590941678855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="305" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588240319407" />
+    <state x="305" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590941678855" />
     <state x="1137" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586355373961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
