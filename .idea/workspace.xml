@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/218 checkdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220 Challenge checkdb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/220 Challenge rollback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/222 rollback before commit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/223 Jukebox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/223 Music browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/212 rollback.py" beforeDir="false" afterPath="$PROJECT_DIR$/212 rollback.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/218 checkdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/218 checkdb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +52,8 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.218 checkdb">
-    <configuration name="209 Migration Duck ext" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.star_args">
+    <configuration name="134 tkinter-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/209 Migration Duck ext.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/134 tkinter-test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="212 rollback" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="137 advanced GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/212 rollback.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/137 advanced GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="212 rollback2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="222 rollback before commit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/212 rollback2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/222 rollback before commit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="218 checkdb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="223 Jukebox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/218 checkdb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/223 Jukebox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ducks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="star_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ducks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/star_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.218 checkdb" />
-        <item itemvalue="Python.212 rollback" />
-        <item itemvalue="Python.212 rollback2" />
-        <item itemvalue="Python.209 Migration Duck ext" />
-        <item itemvalue="Python.ducks" />
+        <item itemvalue="Python.star_args" />
+        <item itemvalue="Python.223 Jukebox" />
+        <item itemvalue="Python.137 advanced GUI" />
+        <item itemvalue="Python.134 tkinter-test" />
+        <item itemvalue="Python.222 rollback before commit" />
       </list>
     </recent_temporary>
   </component>
@@ -438,12 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1590860796423</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="218 finished">
+      <created>1591353538801</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1591353538801</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="108 finished" />
     <MESSAGE value="113 finished" />
     <MESSAGE value="120 finished" />
     <MESSAGE value="131 finished" />
@@ -468,7 +481,8 @@
     <MESSAGE value="205 finished" />
     <MESSAGE value="212 finished" />
     <MESSAGE value="214 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="214 finished" />
+    <MESSAGE value="218 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="218 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
@@ -487,10 +501,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1590860795280">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1591353537730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1590860795280" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591353537730" />
     <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1590940390606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -503,58 +517,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="697" y="345" key="DBNavigator.DatasetEditorSortingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942065833" />
-    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog" timestamp="1590940788136">
+    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog" timestamp="1591450231445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590940788136" />
+    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591450231445" />
     <state x="656" y="183" key="DBNavigator.ExportDataDialog" timestamp="1590941119111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="183" key="DBNavigator.ExportDataDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590941119111" />
-    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog" timestamp="1590942456747">
+    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog" timestamp="1591450348714">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942456747" />
+    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591450348714" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1589287931278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589287931278" />
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1590940695773">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1591450168482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590940695773" />
-    <state width="1865" height="270" key="GridCell.Tab.0.bottom" timestamp="1591353470737">
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591450168482" />
+    <state width="1865" height="118" key="GridCell.Tab.0.bottom" timestamp="1591459105727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
-    <state width="1865" height="270" key="GridCell.Tab.0.center" timestamp="1591353470737">
+    <state width="1865" height="118" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591459105727" />
+    <state width="1865" height="118" key="GridCell.Tab.0.center" timestamp="1591459105727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
-    <state width="1865" height="270" key="GridCell.Tab.0.left" timestamp="1591353470737">
+    <state width="1865" height="118" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591459105727" />
+    <state width="1865" height="118" key="GridCell.Tab.0.left" timestamp="1591459105727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
-    <state width="1865" height="270" key="GridCell.Tab.0.right" timestamp="1591353470737">
+    <state width="1865" height="118" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591459105727" />
+    <state width="1865" height="118" key="GridCell.Tab.0.right" timestamp="1591459105727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591353470737" />
-    <state width="1893" height="326" key="GridCell.Tab.1.bottom" timestamp="1589544655575">
+    <state width="1865" height="118" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591459105727" />
+    <state width="1865" height="326" key="GridCell.Tab.1.bottom" timestamp="1591445036317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
-    <state width="1893" height="326" key="GridCell.Tab.1.center" timestamp="1589544655575">
+    <state width="1865" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591445036317" />
+    <state width="1865" height="326" key="GridCell.Tab.1.center" timestamp="1591445036317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
-    <state width="1893" height="326" key="GridCell.Tab.1.left" timestamp="1589544655575">
+    <state width="1865" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591445036317" />
+    <state width="1865" height="326" key="GridCell.Tab.1.left" timestamp="1591445036316">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
-    <state width="1893" height="326" key="GridCell.Tab.1.right" timestamp="1589544655575">
+    <state width="1865" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591445036316" />
+    <state width="1865" height="326" key="GridCell.Tab.1.right" timestamp="1591445036317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589544655575" />
+    <state width="1865" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591445036317" />
     <state x="437" y="189" width="1046" height="654" key="IDE.errors.dialog" timestamp="1591353525897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
