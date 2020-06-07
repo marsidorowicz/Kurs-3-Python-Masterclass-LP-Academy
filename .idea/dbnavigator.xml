@@ -42,6 +42,8 @@
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="04066615-0e99-43b0-bf53-610bc44902bb" dataset="main.albums" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="04066615-0e99-43b0-bf53-610bc44902bb" dataset="main.artists" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="04066615-0e99-43b0-bf53-610bc44902bb" dataset="main.songs" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
