@@ -31,7 +31,12 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="04066615-0e99-43b0-bf53-610bc44902bb">
-      <console name="Connection" type="STANDARD" schema="main" session="Main" />
+      <console name="Connection" type="STANDARD" schema="main" session="Main"><![CDATA[--select albums.name, COUNT(albums.name) AS num_albums FROM albums GROUP BY albums.name having num_albums >
+--select artists._id, artists.name, albums.name FROM artists
+--Inner join albums on albums.artist = artists._id
+--where albums.name in (select albums.name from albums group by albums.name having count(albums.name) >1)
+--order by albums.name, artists.name
+select name, _id, artist FROM albums WHERE name = "Greatest Hits" AND artist = 176]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/227 kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jukebox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/236 size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238 SCRACHPAD GENERATORS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238 fibb gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238 generator Challenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/223 Jukebox.py" beforeDir="false" afterPath="$PROJECT_DIR$/223 Jukebox.py" afterDir="false" />
@@ -47,7 +48,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.223 Jukebox">
+  <component name="RunManager" selected="Python.238 generator Challenge">
     <configuration name="223 Jukebox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="227 kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="236 size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Programowanie\Tim Buchalka\Kurs 3\227 kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/236 size.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jukebox (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="238 SCRACHPAD GENERATORS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jukebox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/238 SCRACHPAD GENERATORS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,28 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jukebox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jukebox.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="star_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="238 fibb gen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +124,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/star_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/238 fibb gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="238 generator Challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/238 generator Challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.238 generator Challenge" />
+        <item itemvalue="Python.238 fibb gen" />
+        <item itemvalue="Python.238 SCRACHPAD GENERATORS" />
+        <item itemvalue="Python.236 size" />
         <item itemvalue="Python.223 Jukebox" />
-        <item itemvalue="Python.jukebox (1)" />
-        <item itemvalue="Python.jukebox" />
-        <item itemvalue="Python.227 kwargs" />
-        <item itemvalue="Python.star_args" />
       </list>
     </recent_temporary>
   </component>
@@ -454,12 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591459363901</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="232 finished">
+      <created>1591536342992</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1591536342992</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="120 finished" />
     <MESSAGE value="131 finished" />
     <MESSAGE value="135 finished" />
     <MESSAGE value="140 finished" />
@@ -484,7 +491,8 @@
     <MESSAGE value="214 finished" />
     <MESSAGE value="218 finished" />
     <MESSAGE value="225 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="225 finished" />
+    <MESSAGE value="232 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="232 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
@@ -503,10 +511,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1591459362769">
+    <state x="960" y="2" key="CommitChangelistDialog2" timestamp="1591536341875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591459362769" />
+    <state x="960" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591536341875" />
     <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1590940390606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -539,22 +547,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591472480747" />
-    <state width="1865" height="110" key="GridCell.Tab.0.bottom" timestamp="1591535847294">
+    <state width="1865" height="110" key="GridCell.Tab.0.bottom" timestamp="1591708976928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="110" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591535847294" />
-    <state width="1865" height="110" key="GridCell.Tab.0.center" timestamp="1591535847294">
+    <state width="1865" height="110" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591708976928" />
+    <state width="1865" height="110" key="GridCell.Tab.0.center" timestamp="1591708976928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="110" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591535847294" />
-    <state width="1865" height="110" key="GridCell.Tab.0.left" timestamp="1591535847294">
+    <state width="1865" height="110" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591708976928" />
+    <state width="1865" height="110" key="GridCell.Tab.0.left" timestamp="1591708976928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="110" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591535847294" />
-    <state width="1865" height="110" key="GridCell.Tab.0.right" timestamp="1591535847294">
+    <state width="1865" height="110" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591708976928" />
+    <state width="1865" height="110" key="GridCell.Tab.0.right" timestamp="1591708976928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="110" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591535847294" />
+    <state width="1865" height="110" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591708976928" />
     <state width="1865" height="326" key="GridCell.Tab.1.bottom" timestamp="1591471825097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
