@@ -17,7 +17,7 @@ def center_text_ex(*args, sep=" "):
     left_margin = (150 - len(text)) // 2
     return " " * left_margin + text
 
-# with open("cetered", mode="w") as centered_file:
+# with open("centered", mode="w") as centered_file:
 # call
 print(center_text_ex("Jajecznica sobie czeka"))
 center_text("Jajko i jajko")
