@@ -1,58 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="241 finished">
-      <change afterPath="$PROJECT_DIR$/241 mp3 scan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/242 listcomp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/242 listfor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/243 Challenge list comp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/243 Challenge list comp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_010.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_012.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_013.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_014.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_015.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_016.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_017.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_018.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_019.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_020.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_021.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_022.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_023.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_024.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_025.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_026.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_027.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_028.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_029.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_030.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_031.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_033.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_034.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_035.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_036.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_037.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_038.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_039.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_040.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_041.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_042.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_043.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_044.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_045.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_046.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Polskie/osg_P_047.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/center_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id3reader_p3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r.db;" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/r.sqlite" afterDir="false" />
+    <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/291.condcomp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/141 functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/141 functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/240 filesearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/240 filesearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.sqlite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu" beforeDir="false" afterPath="$PROJECT_DIR$/menu" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,32 +39,14 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/checkfile.txt" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.243 Challenge list comp2">
-    <configuration name="148 blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/148 blackjack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.291.condcomp">
     <configuration name="202 SQL in python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,13 +131,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="291.condcomp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/291.condcomp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.291.condcomp" />
         <item itemvalue="Python.243 Challenge list comp2" />
         <item itemvalue="Python.243 Challenge list comp1" />
         <item itemvalue="Python.202 SQL in python" />
         <item itemvalue="Python.223 Jukebox" />
-        <item itemvalue="Python.148 blackjack" />
       </list>
     </recent_temporary>
   </component>
@@ -520,13 +474,18 @@
       <option name="project" value="LOCAL" />
       <updated>1591725447183</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="244 finished">
+      <created>1593286713097</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1593286713097</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="140 finished" />
-    <MESSAGE value="145 finished" />
     <MESSAGE value="150 finished" />
     <MESSAGE value="154 finished" />
     <MESSAGE value="159 finished" />
@@ -550,7 +509,9 @@
     <MESSAGE value="232 finished" />
     <MESSAGE value="238 finished" />
     <MESSAGE value="241 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="241 finished" />
+    <MESSAGE value="255 finished" />
+    <MESSAGE value="244 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="244 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
@@ -569,10 +530,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="683" y="2" key="CommitChangelistDialog2" timestamp="1591885899503">
+    <state x="683" y="2" key="CommitChangelistDialog2" timestamp="1593286710505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591885899503" />
+    <state x="683" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593286710505" />
     <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1590940390606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -601,26 +562,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591472858131" />
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1591472480747">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1593809570191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591472480747" />
-    <state width="1893" height="181" key="GridCell.Tab.0.bottom" timestamp="1593285990875">
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593809570191" />
+    <state width="930" height="180" key="GridCell.Tab.0.bottom" timestamp="1594739768096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593285990875" />
-    <state width="1893" height="181" key="GridCell.Tab.0.center" timestamp="1593285990875">
+    <state width="930" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
+    <state width="930" height="180" key="GridCell.Tab.0.center" timestamp="1594739768096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593285990875" />
-    <state width="1893" height="181" key="GridCell.Tab.0.left" timestamp="1593285990875">
+    <state width="930" height="180" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
+    <state width="930" height="180" key="GridCell.Tab.0.left" timestamp="1594739768096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593285990875" />
-    <state width="1893" height="181" key="GridCell.Tab.0.right" timestamp="1593285990875">
+    <state width="930" height="180" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
+    <state width="930" height="180" key="GridCell.Tab.0.right" timestamp="1594739768096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1893" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593285990875" />
+    <state width="930" height="180" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
     <state width="1893" height="327" key="GridCell.Tab.1.bottom" timestamp="1591895584414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -653,10 +614,6 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1137" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586355373961" />
-    <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586035480998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1249" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586035480998" />
     <state x="423" y="184" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591791598530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
