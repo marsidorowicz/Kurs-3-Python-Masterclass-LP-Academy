@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd073f42-67e2-45c9-a4f7-51a8e4d64348" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/291.condcomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/292.condcomp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/293. challenge2-challenges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/333 nested challenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,70 +48,7 @@
       <recent name="E:\Programowanie\Tim Buchalka\Kurs 3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.291.condcomp">
-    <configuration name="202 SQL in python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/202 SQL in python.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="223 Jukebox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/223 Jukebox.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="243 Challenge list comp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Kurs 3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/243 Challenge list comp1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.333 nested challenge">
     <configuration name="243 Challenge list comp2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Kurs 3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,16 +91,80 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="292.condcomp1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/292.condcomp1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="293. challenge2-challenges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/293. challenge2-challenges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="333 nested challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Kurs 3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/333 nested challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.333 nested challenge" />
+        <item itemvalue="Python.293. challenge2-challenges" />
+        <item itemvalue="Python.292.condcomp1" />
         <item itemvalue="Python.291.condcomp" />
         <item itemvalue="Python.243 Challenge list comp2" />
-        <item itemvalue="Python.243 Challenge list comp1" />
-        <item itemvalue="Python.202 SQL in python" />
-        <item itemvalue="Python.223 Jukebox" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -481,12 +484,18 @@
       <option name="project" value="LOCAL" />
       <updated>1593286713097</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="291 finished">
+      <created>1594740049152</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1594740049152</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="150 finished" />
     <MESSAGE value="154 finished" />
     <MESSAGE value="159 finished" />
     <MESSAGE value="162 finished" />
@@ -511,121 +520,34 @@
     <MESSAGE value="241 finished" />
     <MESSAGE value="255 finished" />
     <MESSAGE value="244 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="244 finished" />
+    <MESSAGE value="291 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="291 finished" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590069840629">
+    <state x="683" y="2" key="CommitChangelistDialog2" timestamp="1594740048543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1204" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590069840629" />
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591459952220">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="624" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591459952220" />
-    <state x="1266" y="213" key="#xdebugger.XInspectDialog" timestamp="1586721342672">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1266" y="213" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586721342672" />
-    <state x="645" y="121" key="#xdebugger.evaluate" timestamp="1586590669886">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="645" y="121" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586590669886" />
-    <state x="683" y="2" key="CommitChangelistDialog2" timestamp="1593286710505">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="683" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593286710505" />
-    <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1590940390606">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="426" key="DBNavigator.CreateRenameConsoleDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590940390606" />
-    <state x="727" y="225" key="DBNavigator.DatasetColumnSetupDialog" timestamp="1590942087739">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="727" y="225" key="DBNavigator.DatasetColumnSetupDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942087739" />
-    <state x="697" y="345" key="DBNavigator.DatasetEditorSortingDialog" timestamp="1590942065833">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="697" y="345" key="DBNavigator.DatasetEditorSortingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590942065833" />
-    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog" timestamp="1591470076308">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="537" y="225" key="DBNavigator.DatasetFilterDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591470076308" />
-    <state x="656" y="183" key="DBNavigator.ExportDataDialog" timestamp="1590941119111">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="656" y="183" key="DBNavigator.ExportDataDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590941119111" />
-    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog" timestamp="1591450348714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="487" y="165" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591450348714" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1591472858131">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591472858131" />
+    <state x="683" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594740048543" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1593809570191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593809570191" />
-    <state width="930" height="180" key="GridCell.Tab.0.bottom" timestamp="1594739768096">
+    <state width="1893" height="388" key="GridCell.Tab.0.bottom" timestamp="1602511679853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
-    <state width="930" height="180" key="GridCell.Tab.0.center" timestamp="1594739768096">
+    <state width="1893" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602511679853" />
+    <state width="1893" height="388" key="GridCell.Tab.0.center" timestamp="1602511679853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="180" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
-    <state width="930" height="180" key="GridCell.Tab.0.left" timestamp="1594739768096">
+    <state width="1893" height="388" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602511679853" />
+    <state width="1893" height="388" key="GridCell.Tab.0.left" timestamp="1602511679853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="180" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
-    <state width="930" height="180" key="GridCell.Tab.0.right" timestamp="1594739768096">
+    <state width="1893" height="388" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602511679853" />
+    <state width="1893" height="388" key="GridCell.Tab.0.right" timestamp="1602511679853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="180" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594739768096" />
-    <state width="1893" height="327" key="GridCell.Tab.1.bottom" timestamp="1591895584414">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1893" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591895584414" />
-    <state width="1893" height="327" key="GridCell.Tab.1.center" timestamp="1591895584414">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1893" height="327" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591895584414" />
-    <state width="1893" height="327" key="GridCell.Tab.1.left" timestamp="1591895584414">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1893" height="327" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591895584414" />
-    <state width="1893" height="327" key="GridCell.Tab.1.right" timestamp="1591895584414">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1893" height="327" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591895584414" />
-    <state x="437" y="189" width="1046" height="654" key="IDE.errors.dialog" timestamp="1591461650081">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="437" y="189" width="1046" height="654" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591461650081" />
-    <state x="1070" y="373" key="Performance.Activity.Monitor" timestamp="1586441114333">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1070" y="373" key="Performance.Activity.Monitor/0.0.1920.1040@0.0.1920.1040" timestamp="1586441114333" />
-    <state x="305" y="155" key="SettingsEditor" timestamp="1591535750465">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="305" y="155" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591535750465" />
-    <state x="1137" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586355373961">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1137" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586355373961" />
-    <state x="423" y="184" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591791598530">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="423" y="184" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1591791598530" />
-    <state x="605" y="22" width="710" height="996" key="find.popup" timestamp="1591886946895">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="605" y="22" width="710" height="996" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591886946895" />
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup" timestamp="1590515607905">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1103" y="229" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590515607905" />
+    <state width="1893" height="388" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602511679853" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
